@@ -1,0 +1,188 @@
+h1,h2,h3,h4,h5,h6 {
+color:hotpink;
+text-decoration:underline;
+text-shadow:2px 2px black;
+font-family:verdana;
+font-size:25px;
+}
+
+.para1 {
+color:white;
+background-color:royalblue;
+font-family:serif;
+font-size:25px;
+line-height:1.5em;
+padding:12px;
+border-width:3px;
+border-style:solid;
+border-color:white;
+box-shadow:20px 25px 30px black;
+}
+
+.para2 {
+color:white;
+background-color:royalblue;
+font-family:serif;
+font-size:20px;
+line-height:1.5em;
+padding:12px;
+border-width:3px;
+border-style:solid;
+border-color:white;
+box-shadow:20px 25px 30px black;
+}
+
+.para3 {
+color:white;
+background-color:royalblue;
+font-family:serif;
+font-size:20px;
+line-height:1.5em;
+padding:12px;
+border-width:3px;
+border-style:solid;
+border-color:white;
+box-shadow:20px 25px 30px black;    
+}
+
+.para4 {
+color:white;
+background-color:royalblue;
+font-family:serif;
+font-size:20px;
+line-height:1.5em;
+padding:12px;
+border-width:3px;
+border-style:solid;
+border-color:white;
+box-shadow:20px 25px 30px black;   
+}
+
+.para5 {
+color:white;
+background-color:royalblue;
+font-family:serif;
+font-size:20px;
+line-height:1.5em;
+padding:12px;
+border-width:3px;
+border-style:solid;
+border-color:white;
+box-shadow:20px 25px 30px black;   
+}
+
+.para6 {
+color:white;
+background-color:royalblue;
+font-family:serif;
+font-size:20px;
+line-height:1.5em;
+padding:10px;
+border-width:3px;
+border-style:solid;
+border-color:white;
+box-shadow:20px 25px 30px black;
+}
+
+.con1 {
+color:darkblue;
+font-weight:bold;
+}
+
+.con2 {
+color:blue;
+font-weight:bold;
+}
+
+.con3 {
+color:darkgray;
+font-weight:bold;
+}
+
+.con4 {
+color:magenta;
+font-weight:bold;
+}
+
+.con5 {
+color:burlywood;
+font-weight:bold;
+}
+
+.con6 {
+color:yellow;
+font-weight:bold;
+}
+
+.con7 {
+color:black;
+font-weight:bold;
+}
+
+.con8 {
+color:crimson;
+font-weight:bold;
+}
+
+.con9 {
+color:pink;
+font-weight:bold;
+}
+
+.con10{
+color:silver;
+font-weight:bold;
+font-family:serif;
+}
+
+.YT {
+cursor:pointer;
+background-color:white;
+color:black;
+transition-duration:0.5s;
+padding:20px 30px;
+font-family:serif;
+font-size:large;
+border-radius:30px;
+border-style:solid;
+}
+
+.YT:hover {
+background-color:red;
+color:white;
+}
+
+.TNF {
+width:250px;
+height:300px;
+border-radius:10px;
+border-width:4px;
+border-color:magenta;
+border-style:solid;
+display:block;
+margin-left:auto;
+margin-right:auto;
+}
+
+body {
+background-image:radial-gradient(magenta,royalblue);
+}
+
+::-webkit-scrollbar {
+width:9px;
+}
+
+::-webkit-srcollbar-track {
+background-color:royalblue;
+}
+
+::-webkit-scrollbar-thumb {
+background:linear-gradient(red, royalblue, royalblue, red);
+border-radius:15px;
+}
+
+::-webkit-scrollbar-button {
+width:9px;
+background-color:blue;
+}
+
